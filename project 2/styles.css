@@ -18,3 +18,6 @@ padding: 20px 10px;
 background:purple; /* pick a color */
 border-radius: 25%;
 }
+.project img{
+width: 300px;
+}
